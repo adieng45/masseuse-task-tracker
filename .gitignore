@@ -1,0 +1,6 @@
+build/
+*.db
+*.o
+*.exe
+masseuse_tracker
+tracker_tests
